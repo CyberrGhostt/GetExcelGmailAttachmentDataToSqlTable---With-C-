@@ -12,7 +12,12 @@ ExcelDataReader;
 System.Data;
 System.Data.SqlClient;
 
-Has been used in the code some are external
+Has been used in the code some are external, you can add them by following below steps:
+
+1. Mail: Go and right click the References -> Add Reference -> Add "Mail" reference
+2. ExcelDataReader: Go and right click the References -> Manage NuGet packages -> And go to Browse tab -> Install "ExcelDataReader"
+3. ExcelDataReader: Go and right click the References -> Manage NuGet packages -> And go to Browse tab -> Install "ExcelDataReader.DataSet"
+
 
 
 
